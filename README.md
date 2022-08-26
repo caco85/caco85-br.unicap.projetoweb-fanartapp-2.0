@@ -15,9 +15,8 @@ Projeto Fanart Refatorado e feito em novo modelo Full Stack Laravel, VueJs e Tai
 
 Feito a Api com laravel
 Front com Vue+ Vuex
-Tailwind css
+Tailwind css com a lib heroicon
 e Vite.
-
 
 Como clonar e rodar o projeto
 Run: git clone https://github.com/caco85/br.unicap.projetoweb-fanartapp-2.0.git
